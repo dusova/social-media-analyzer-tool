@@ -64,8 +64,8 @@
 
 1. **Repository'yi klonlayın**
    ```bash
-   git clone https://github.com/dusova/SMATool.git
-   cd SMATool
+   git clone https://github.com/dusova/social-media-analyzer-tool/.git
+   cd social-media-analyzer-tool
    ```
 
 2. **Projeyi derleyin**

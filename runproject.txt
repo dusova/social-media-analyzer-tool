@@ -1,0 +1,2 @@
+java -cp "target/SMATool-1.0.jar;lib/gson-2.11.0.jar" com.codewithmad.smatool.SMATool
+
